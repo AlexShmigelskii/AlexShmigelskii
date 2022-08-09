@@ -18,6 +18,7 @@
 
 ### 🛠 Languages and Tools:
 
+<img align="right" alt="GIF" src="https://github.com/AlexShmigelskii/AleksandrShmigelskii/blob/main/coding.gif?raw=true" width="500" height="320" />
 
 **Back-end**
 
@@ -41,6 +42,9 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+
+
+## 𝗦𝘁𝗮𝘁𝘀
 
 [![AlexShmigelskii's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexShmigelskii&show_icons=true&theme=cobalt&hide=issues,contribs)](https://github.com/AlexShmigelskii/)
 <br>
