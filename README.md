@@ -14,7 +14,8 @@
 
 
 ### ✅ Сompleted courses:
-[![stepik](https://img.shields.io/badge/-"Python":_course_for_Beginners-1E3647?style=for-the-badge&logo=stepik&logoColor=1E90FF)]( https://stepik.org/cert/1180227       )
+[![stepik](https://img.shields.io/badge/-"Python":_course_for_Beginners-1E3647?style=for-the-badge&logo=stepik&logoColor=1E90FF)]( https://stepik.org/cert/1180227)
+[![stepik](https://img.shields.io/badge/-"Python":_course_for_Advanced-1E3647?style=for-the-badge&logo=stepik&logoColor=1E90FF)]( https://stepik.org/cert/1675506)
 
 ### 🛠 Languages and Tools:
 
