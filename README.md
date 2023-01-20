@@ -38,13 +38,3 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-
-
-
-
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-[![AlexShmigelskii's GitHub stats](https://alex-shmigelskii.vercel.app/api?username=AlexShmigelskii&show_icons=true&theme=cobalt&hide=issues,contribs)](https://github.com/AlexShmigelskii/)
-<br>
-![AlexShmigelskii Languages](https://alex-shmigelskii.vercel.app/api/top-langs/?username=AlexShmigelskii&layout=compact&count_private=true&theme=gruvbox)
