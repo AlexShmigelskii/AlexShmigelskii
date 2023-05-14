@@ -12,7 +12,7 @@
   <img align="left" alt="VK" width="22px" src="https://pngicon.ru/file/uploads/vk-128x128.png">
 </a>
 
-<a href="https://vk.com/syn_maminoy_podrug">
+<a href="https://stepik.org/users/414077881">
   <img align="left" alt="Stepik" width="22px" src="https://stepic.org/static/classic/ico/favicon_57.png?v=1426788841">
 </a>
 
