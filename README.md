@@ -8,7 +8,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://pngicon.ru/file/uploads/instagram-128x128.png">
 </a>
 
-<a href="https://vk.com/syn_maminoy_podrug">
+<a href="https://vk.com/alex_shmigelskii">
   <img align="left" alt="VK" width="22px" src="https://pngicon.ru/file/uploads/vk-128x128.png">
 </a>
 
