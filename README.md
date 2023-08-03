@@ -45,8 +45,13 @@
 
 **Tools**
 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter-notebook](https://img.shields.io/badge/jupyter--notebook-orange?style=for-the-badge&logo=jupyter-notebook&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-purple?style=for-the-badge&logo=pandas)
+![Numpy](https://img.shields.io/badge/numpy-purple?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/matplotlib-blue?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Pyinstaller](https://img.shields.io/badge/pyinstaller-black?style=for-the-badge&logo=pyinstaller&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-blue?style=for-the-badge&logo=matplot&logoColor=white)
