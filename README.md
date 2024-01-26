@@ -20,9 +20,11 @@
 
 
 ### ✅ Сompleted courses:
+[![vk](https://img.shields.io/badge/-algorithms_and_data_structures-1E3647?style=for-the-badge&logo=vk&logoColor=1E90FF)](https://education.vk.company/curriculum/certificates/download/43127/a794b086-642e-4148-866e-a1e7d910fe6d/)
+<br>
 [![stepik](https://img.shields.io/badge/-Interactive_SQL_Trainer-1E3647?style=for-the-badge&logo=stepik&logoColor=1E90FF)](https://stepik.org/cert/2059703)
 <br>
-[![stepik](https://img.shields.io/badge/-"C++":_Introduction_to_programming_(С++)-1E3647?style=for-the-badge&logo=stepik&logoColor=1E90FF)](https://stepik.org/cert/2035191)
+[![stepik](https://img.shields.io/badge/-"C++":_Introduction_to_programming-1E3647?style=for-the-badge&logo=stepik&logoColor=1E90FF)](https://stepik.org/cert/2035191)
 <br>
 [![stepik](https://img.shields.io/badge/-"Python":_Advanced_course-1E3647?style=for-the-badge&logo=stepik&logoColor=1E90FF)]( https://stepik.org/cert/1675506)
 <br>
