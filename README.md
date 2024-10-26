@@ -15,10 +15,5 @@
       "field": "Aerospace Systems"
     }
   },
-  "contacts": {
-    "Telegram": "https://t.me/alex_shmigelskii",
-    "Instagram": "https://www.instagram.com/alex_shmigelskii/",
-    "VK": "https://vk.com/alex_shmigelskii"
-  }
 }
 
