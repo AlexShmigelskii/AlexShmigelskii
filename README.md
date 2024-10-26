@@ -14,6 +14,6 @@
       "university": "BMSTU",
       "field": "Aerospace Systems"
     }
-  },
+  }
 }
 
