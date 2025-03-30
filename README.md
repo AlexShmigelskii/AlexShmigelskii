@@ -5,7 +5,7 @@
     "OS": "macOS",
     "CPU": "Apple Silicon M1"
   },
-  "languages": ["Python", "C++", "SQL"],
+  "languages": ["Python", "C", "Bash", "OCaml", "SQL"],
   "frameworks": ["FastAPI", "Scikit-Learn", "Streamlit"],
   "education": {
     "university": "University of Grenoble Alpes",
